@@ -74,4 +74,10 @@ a buzzer/speaker via RC filter/amplifier
 
 logic analyzer observation
 
+
 external DAC-style reconstruction (RC low-pass)
+
+
+<img width="786" height="142" alt="image" src="https://github.com/user-attachments/assets/d470b78a-6fbb-4198-9c01-177d8507878f" />
+Block Diagram
+
