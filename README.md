@@ -77,7 +77,11 @@ logic analyzer observation
 
 external DAC-style reconstruction (RC low-pass)
 
-
-<img width="786" height="142" alt="image" src="https://github.com/user-attachments/assets/d470b78a-6fbb-4198-9c01-177d8507878f" />
 Block Diagram
+<img width="786" height="142" alt="image" src="https://github.com/user-attachments/assets/d470b78a-6fbb-4198-9c01-177d8507878f" />
+
+Circuit Diagram
+<img width="750" height="327" alt="image" src="https://github.com/user-attachments/assets/780a1bb8-88e8-436b-b289-17c85cf43e54" />
+
+
 
